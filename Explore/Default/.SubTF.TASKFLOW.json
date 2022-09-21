@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1w2Yc1M98IsfypLqLdQGyZ",
+    "name" : "SubTF",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5aaabdqpw0VPNzU-gt-21721-2022-09-20T10:06:55.905Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}
